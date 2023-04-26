@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D3A3B8A7-9600-4F4E-BDCB-A793C65CCB04"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FE9708D-B5EE-403C-A80F-94545702EED4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PreventScreenshot/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "sceneWillResignActive(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5FE9708D-B5EE-403C-A80F-94545702EED4 - 1d625e719125e7d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PreventScreenshot.SceneDelegate.sceneWillResignActive(__C.UIScene) -&gt; ()"
+                  moduleName = "PreventScreenshot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Downloads/PreventScreenCaptureIniOS14-master/PreventScreenshot/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "5FE9708D-B5EE-403C-A80F-94545702EED4 - 1d625e719125e42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PreventScreenshot.SceneDelegate.sceneWillResignActive(__C.UIScene) -&gt; ()"
+                  moduleName = "PreventScreenshot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Downloads/PreventScreenCaptureIniOS14-master/PreventScreenshot/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91443AEF-C7CC-48E4-956B-9161844E8514"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PreventScreenshot/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "sceneDidBecomeActive(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F95B709D-D935-4EF4-9BEA-2CC5BB9A4C33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PreventScreenshot/ScreenProtector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "presentwarningWindow(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F95B709D-D935-4EF4-9BEA-2CC5BB9A4C33 - 8cee5b354233d656"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[0] = Value Promoted from Box&gt; of closure #2 @Swift.MainActor () -&gt; () in PreventScreenshot.ScreenProtector.presentwarningWindow(Swift.String) -&gt; ()"
+                  moduleName = "PreventScreenshot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Downloads/PreventScreenCaptureIniOS14-master/PreventScreenshot/ScreenProtector.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "F95B709D-D935-4EF4-9BEA-2CC5BB9A4C33 - 28d92c02ab649169"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 @Swift.MainActor () -&gt; () in PreventScreenshot.ScreenProtector.presentwarningWindow(Swift.String) -&gt; ()"
+                  moduleName = "PreventScreenshot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitinbhatia/Downloads/PreventScreenCaptureIniOS14-master/PreventScreenshot/ScreenProtector.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
