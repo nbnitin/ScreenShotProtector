@@ -17,6 +17,10 @@ class ScreenProtector {
     func startPreventingRecording() {
         NotificationCenter.default.addObserver(self, selector: #selector(didDetectRecording), name: UIScreen.capturedDidChangeNotification, object: nil)
     }
+    
+    func stopPreventingRecording() {
+        NotificationCenter.default.removeObserver(self, name: UIScreen.capturedDidChangeNotification, object: nil)
+    }
 
     func startPreventingScreenshot() {
         NotificationCenter.default.addObserver(self, selector: #selector(didDetectScreenshot), name: UIApplication.userDidTakeScreenshotNotification, object: nil)
